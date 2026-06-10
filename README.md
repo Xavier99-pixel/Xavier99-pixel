@@ -1,11 +1,101 @@
-<h3 align="center">A passionate AI Engineer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raja-vardhan-351a22412?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raja-vardhan-351a22412?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_hey_raj00?igsh=odk3n2dnmdf6n3jj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_hey_raj00?igsh=odk3n2dnmdf6n3jj" height="30" width="40" /></a>
+<h1 align="center">Hi 👋, I'm Raja Vardhan</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Intern;Continuous+Learner;Building+intelligent+systems;Interested+in+Cloud+AI+%26+Machine+Learning" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/raja-vardhan-351a22412" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_hey_raj00" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="YOUR_PORTFOLIO_LINK_PLACEHOLDER" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me & Brand Story
+I am an ambitious **Artificial Intelligence & Data Science student** stepping into the industry as an Intern. I bridge the gap between heavy academic engineering theories and live cloud deployments. 
+
+My approach to engineering is **playful yet technical**—I love breaking down complex AI models, but I take building scalable, production-ready systems seriously. 
+
+- 🧠 **Currently focusing on:** Optimizing Deep Learning models for production.
+- ⚡ **The Goal:** Building fast, reliable, and intelligent automated workflows.
+- 💬 **Ask me about:** Why MLOps is the missing piece in your AI pipelines.
+
+---
+
+## 🛠️ Tech Stack & Capabilities
+
+### ☁️ Cloud, MLOps & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-CD2C2E?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+</p>
+
+### 📱 Languages & Frameworks (From My Toolkit)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 01. Intelligent Cloud AI Pipeline
+> **Core Stack:** AWS, Docker, Python
+A brief, high-impact description of what this project does. E.g., An automated pipeline that ingests data, runs a machine learning model inside a Docker container on AWS, and updates a database dashboard.
+<br />
+<p align="center">
+  <img src="https://placehold.co/800x400/232F3E/white?text=Project+1+Image+Placeholder+(800x400)" width="100%" alt="Project One Preview" />
+</p>
+
+---
+
+### 02. End-to-End MLOps Infrastructure
+> **Core Stack:** Terraform, CI/CD, GitHub Actions
+Deploying machine learning systems using Infrastructure as Code (IaC). Automated code checks, model unit testing, and dynamic staging environments.
+<br />
+<p align="center">
+  <img src="https://placehold.co/800x400/7B42BC/white?text=Project+2+Image+Placeholder+(800x400)" width="100%" alt="Project Two Preview" />
+</p>
+
+---
+
+### 03. Smart Hybrid Application
+> **Core Stack:** Flutter / React Native, Artificial Intelligence
+Integrating intelligent components directly into client applications. Connects local hardware/mobile data streams to data science analytical platforms.
+<br />
+<p align="center">
+  <img src="https://placehold.co/800x400/02569B/white?text=Project+3+Image+Placeholder+(800x400)" width="100%" alt="Project Three Preview" />
+</p>
+
+---
+
+## 📊 Developer Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xavier99-pixel&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Raja's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xavier99-pixel&theme=tokyonight" width="48%" alt="Raja's Commit Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xavier99-pixel&layout=compact&theme=tokyonight" width="60%" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  🚀 <i>"The best way to predict the future is to program it." Let's build something awesome together!</i>
+</p>
 
